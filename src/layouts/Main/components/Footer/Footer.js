@@ -16,9 +16,9 @@ const Footer = () => (
         <Link
           underline="none"
           component="a"
-          href="https://www.mwtechnologies.co"
+          href="https://www.mw-labs.com"
           color="textPrimary"
-          variant={'subtitle2'}> M&WTechnologies.ke 2024</Link>, SAAS. All rights reserved
+          variant={'subtitle2'}> M&W Lab Technologies 2025</Link>, SAAS. All rights reserved
         
       </Typography>
       <Typography

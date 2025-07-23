@@ -73,7 +73,7 @@ const Map = ({ themeMode = 'light' }) => {
           >
             Email us:
           </Typography>
-          <Typography variant={'subtitle1'}>mwtechnologieske@gmail.com</Typography>
+          <Typography variant={'subtitle1'}>info@mw-labs.com</Typography>
         </Grid>
         <Grid item xs={12}>
           <Typography
